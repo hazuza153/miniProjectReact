@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad1d15e4.css",
+    "main.js": "/static/js/main.a1053e0c.js",
+    "static/media/motoGp01.png": "/static/media/motoGp01.81a811bc9dff8561c4d3.png",
+    "static/media/motoGp02.png": "/static/media/motoGp02.e22f1429b3f7f3458655.png",
+    "static/media/motoGp03.png": "/static/media/motoGp03.68bbb1486a7472e5163c.png",
+    "index.html": "/index.html",
+    "main.ad1d15e4.css.map": "/static/css/main.ad1d15e4.css.map",
+    "main.a1053e0c.js.map": "/static/js/main.a1053e0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad1d15e4.css",
+    "static/js/main.a1053e0c.js"
+  ]
+}
